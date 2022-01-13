@@ -7,3 +7,7 @@ Please follow these steps:
 
 URL for the input box "Additional Boards Manager URLs":
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+A more detail writing article: https://iotdesignpro.com/projects/getting-started-with-esp32-program-it-using-arduino-ide-blinking-led
+
+A more advantage video tutorial: https://www.youtube.com/watch?v=xPlN_Tk3VLQ
